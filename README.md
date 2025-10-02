@@ -27,6 +27,7 @@ The shell script in the workflow will run whenever a new pull request is opened.
 
 <footer>
 
+![random image](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
